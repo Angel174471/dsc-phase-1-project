@@ -1,65 +1,48 @@
 # Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+ANGEL LINAH ATUNGIRE 
+DSPT-04.
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+For this project, I used exploratory data analysis using different data analysis packages in python to generate insights for a business stakeholder.
 
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I was charged with exploring what types of films are currently doing the best at the box office. I had to then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
-In the folder `zippedData` are movie datasets from:
+I used the data from:
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+* title.basics.csv
+* title.ratings.csv
+* tmdb.movies.csv
+* tn.movie_budget.csv
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+### Deliverables
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
+This GitHub repository contains all the deliverables for this project:
 
 * A **GitHub repository**
 * A **Jupyter Notebook**
 * A **non-technical presentation**
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+### Outline
 
-### Key Points
+1. *Exploratory Data Analysis:* I will conduct a thorough exploration of the movie data using pandas data frames and different data visualization techniques in python, analyzing various factors such as genre, budget, release date, and audience ratings. This analysis will help us understand which types of films are currently performing the best.
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+2. *Identify Successful Film Types:* Based on my analysis, I will identify the genres and release periods that have shown the highest performance. This will enable me to pinpoint the types of films that resonate well with the audience and generate significant profit.
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+3. *Actionable Recommendations:* I will translate my findings into concrete business recommendations for the head of Microsoft's new movie studio. These recommendations will guide them in making informed decisions about the types of films to create. My suggestions may include:
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+   - Investing in genres that have consistently performed well, such as action or adventure.
+   - Making the worldwide market their most targeted audience.
+   - Timing film releases strategically, considering factors like seasonal trends, competition, and audience preferences.
 
-## Getting Started
+4. *Effective Communication:* To ensure clear communication, I will create a cohesive storyline that the head of Microsoft's movie studio can easily follow. I'll present the steps of my analysis, highlighting the most important points and omitting unnecessary technical details. The code in the Notebook is very easy to follow and runs from top to bottom, step by step. Visualizations will play a crucial role in conveying my findings. I will use simple, well-formatted visuals such as bar charts and line graphs that directly support my recommendations.
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+By adopting the strategies in the Notebook and leveraging the identified insights, the new movie studio can position itself for success in the competitive movie industry and increase the chances of producing profitable and well-received movies.
