@@ -40,7 +40,7 @@ This GitHub repository contains all the deliverables for this project:
    - Making the worldwide market their most targeted audience.
    - Timing film releases strategically, considering factors like seasonal trends, competition, and audience preferences.
 
-4. *Effective Communication:* To ensure clear communication, I will create a cohesive storyline that the head of Microsoft's movie studio can easily follow. I'll present the steps of my analysis, highlighting the most important points and omitting unnecessary technical details. The code in the Notebook is very easy to follow and runs from top to bottom, step by step. Visualizations will play a crucial role in conveying my findings. I will use simple, well-formatted visuals such as bar charts and line graphs that directly support my recommendations.
+4. *Effective Communication:* To ensure clear communication, I will create a cohesive storyline that the head of Microsoft's movie studio can easily follow. I'll present the steps of my analysis, highlighting the most important points and omitting unnecessary technical details. The code in the Notebook is very easy to follow and runs from top to bottom, step by step. Visualizations will play a crucial role in conveying my findings. I will use simple, well-formatted visuals such as bar charts and line graphs that directly support my recommendations. The non-technical presentation included in this repository is a power point that has been stored in PDF format.
 
 
 ## Summary
