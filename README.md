@@ -30,7 +30,7 @@ This GitHub repository contains all the deliverables for this project:
 
 ### Outline
 
-1. *Exploratory Data Analysis:* I will conduct a thorough exploration of the movie data using pandas data frames and different data visualization techniques in python, analyzing various factors such as genre, budget, release date, and audience ratings. This analysis will help us understand which types of films are currently performing the best.
+1. *Exploratory Data Analysis:* I will conduct a thorough exploration of the movie data using pandas data frames and different data visualization techniques in Python, analyzing various factors such as genre, budget, release date, and audience ratings. This analysis will help me understand which types of films are currently performing the best.
 
 2. *Identify Successful Film Types:* Based on my analysis, I will identify the genres and release periods that have shown the highest performance. This will enable me to pinpoint the types of films that resonate well with the audience and generate significant profit.
 
@@ -40,9 +40,9 @@ This GitHub repository contains all the deliverables for this project:
    - Making the worldwide market their most targeted audience.
    - Timing film releases strategically, considering factors like seasonal trends, competition, and audience preferences.
 
-4. *Effective Communication:* To ensure clear communication, I will create a cohesive storyline that the head of Microsoft's movie studio can easily follow. I'll present the steps of my analysis, highlighting the most important points and omitting unnecessary technical details. The code in the Notebook is very easy to follow and runs from top to bottom, step by step. Visualizations will play a crucial role in conveying my findings. I will use simple, well-formatted visuals such as bar charts and line graphs that directly support my recommendations. The non-technical presentation included in this repository is a power point that has been stored in PDF format.
+4. *Effective Communication:* To ensure clear communication, I will create a cohesive storyline that the head of Microsoft's movie studio can easily follow. I'll present the steps of my analysis, highlighting the most important points and omitting unnecessary technical details. The code in the Notebook is very easy to follow and runs from top to bottom, step by step. Visualizations will play a crucial role in conveying my findings. I will use simple, well-formatted visuals such as bar charts and line graphs that directly support my recommendations. The non-technical presentation included in this repository is a PowerPoint that has been stored in PDF format.
 
 
 ## Summary
 
-By adopting the strategies in the Notebook and leveraging the identified insights, the new movie studio can position itself for success in the competitive movie industry and increase the chances of producing profitable and well-received movies.
+By adopting the strategies in the Notebook and leveraging the identified insights, the new movie studio can position itself for success in the competitive movie industry and increase its chances of producing profitable and well-received movies.
